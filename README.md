@@ -4,8 +4,7 @@ A Flutter application demonstrating clean architecture principles with country a
 
 ## 📸 Screenshots
 
-
-*Add screenshots showing the country/state selection interface*
+<img width="335" height="723" alt="image" src="https://github.com/user-attachments/assets/9c180a9e-8586-4d39-b867-5423519e0e51" />
 
 ## 🏗️ Architecture Overview
 
