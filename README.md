@@ -109,34 +109,7 @@ presentation/
     └── location_picker_page.dart
 ```
 
-## 🔧 Key Features
-
-### Functional Requirements
-- [x] Display country selection interface
-- [x] Display state selection interface (enabled after country selection)
-- [x] Load countries from REST API
-- [x] Load states based on selected country
-- [x] Clear selection functionality
-- [x] Responsive UI with loading states
-- [x] Error handling with user feedback
-
-### Technical Features
-- [x] **Clean Architecture** implementation
-- [x] **Adaptive UI** - Different bottom sheets for iOS/Android
-- [x] **State Management** with Cubit pattern
-- [x] **Dependency Injection** with Injectable
-- [x] **Error Handling** with Either types
-- [x] **Code Generation** for models and DI
-- [x] **Unit Tests** for business logic
-- [x] **Network Layer** with Dio
-- [x] **Immutable State** with Freezed
-
-## 🧪 Testing Strategy
-
-### Unit Tests
-- **Use Cases**: Business logic validation
-- **Cubit**: State management behavior
-- **Repository**: Data layer functionality
+## 🧪 Testing
 
 ### Test Structure
 ```
@@ -152,15 +125,6 @@ test/
 - **flutter_test**: Core testing framework
 - **bloc_test**: Cubit/BLoC testing utilities
 - **mockito**: Mock object generation for isolating dependencies
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (latest stable version)
-- Dart SDK
-- IDE with Flutter support (VS Code, Android Studio)
-
-## 📱 UI/UX Decisions
 
 ## 🔮 Future Enhancements
 
